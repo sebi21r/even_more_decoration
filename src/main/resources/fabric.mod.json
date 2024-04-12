@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "even_more_decoration",
+	"version": "${version}",
+	"name": "Even More Decoration",
+	"description": "This Mod adds a few decorational Blocks!",
+	"authors": [
+		"sebi21r"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MTI",
+	"icon": "assets/even_more_decoration/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"sebi21r.emd.EMD"
+		],
+		"client": [
+			"sebi21r.emd.EvenMoreDecorationClient"
+		],
+		"fabric-datagen": [
+			"sebi21r.emd.EvenMoreDecorationDataGenerator"
+		]
+	},
+	"mixins": [
+		"even_more_decoration.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.9",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
