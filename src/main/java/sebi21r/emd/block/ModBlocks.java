@@ -15,6 +15,10 @@ public class ModBlocks {
 
     public static final Block CALCITE_BRICKS = registerBlock("calcite_bricks",
             new Block(FabricBlockSettings.copyOf(Blocks.CALCITE)));
+    public static final Block POLISHED_CALCITE = registerBlock("polished_calcite",
+            new Block(FabricBlockSettings.copyOf(Blocks.CALCITE)));
+    public static final Block CHISELED_CALCITE = registerBlock("chiseled_calcite",
+            new Block(FabricBlockSettings.copyOf(Blocks.CALCITE)));
 
 
 

@@ -14,10 +14,12 @@ public class ModItemGroups {
 
     public static final ItemGroup EVEN_MORE_DECORATION_GROUP = Registry.register(Registries.ITEM_GROUP, new Identifier(EMD.Mod_ID,
             "even_more_decoration_group"), FabricItemGroup.builder().displayName(Text.translatable("itemgroup.even_more_decoration_group"))
-            .icon(() -> new ItemStack(ModItems.TEST)).entries((displayContext, entries) -> {
+            .icon(() -> new ItemStack(ModBlocks.CALCITE_BRICKS)).entries((displayContext, entries) -> {
                 entries.add(ModItems.TEST);
 
                 entries.add(ModBlocks.CALCITE_BRICKS);
+                entries.add(ModBlocks.POLISHED_CALCITE);
+                entries.add(ModBlocks.CHISELED_CALCITE);
 
             }).build());
 

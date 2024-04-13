@@ -2,6 +2,8 @@
 
   "item.even_more_decoration.test": "Test Item",
   "itemgroup.even_more_decoration_group": "Even More Decoration",
-  "block.even_more_decoration.calcite_bricks": "Calcite Bricks"
+  "block.even_more_decoration.calcite_bricks": "Calcite Bricks",
+  "block.even_more_decoration.polished_calcite": "Polished Calcite",
+  "block.even_more_decoration.chiseled_calcite": "Chiseled Calcite"
 
 }
