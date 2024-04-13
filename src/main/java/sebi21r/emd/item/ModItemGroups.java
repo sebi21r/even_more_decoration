@@ -8,6 +8,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 import sebi21r.emd.EMD;
+import sebi21r.emd.block.ModBlocks;
 
 public class ModItemGroups {
 
@@ -15,6 +16,8 @@ public class ModItemGroups {
             "even_more_decoration_group"), FabricItemGroup.builder().displayName(Text.translatable("itemgroup.even_more_decoration_group"))
             .icon(() -> new ItemStack(ModItems.TEST)).entries((displayContext, entries) -> {
                 entries.add(ModItems.TEST);
+
+                entries.add(ModBlocks.CALCITE_BRICKS);
 
             }).build());
 

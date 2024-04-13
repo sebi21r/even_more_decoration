@@ -4,6 +4,7 @@ import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import sebi21r.emd.block.ModBlocks;
 import sebi21r.emd.item.ModItemGroups;
 import sebi21r.emd.item.ModItems;
 
@@ -16,6 +17,7 @@ public class EMD implements ModInitializer {
 
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 
 	}
 }
