@@ -1,8 +1,0 @@
-{
-
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "even_more_decoration:block/chiseled_calcite"
-  }
-
-}
