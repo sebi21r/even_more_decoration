@@ -1,0 +1,8 @@
+{
+
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "even_more_decoration:item/rock"
+  }
+
+}

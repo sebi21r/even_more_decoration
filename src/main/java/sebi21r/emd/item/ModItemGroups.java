@@ -16,6 +16,7 @@ public class ModItemGroups {
             "even_more_decoration_group"), FabricItemGroup.builder().displayName(Text.translatable("itemgroup.even_more_decoration_group"))
             .icon(() -> new ItemStack(ModBlocks.CALCITE_BRICKS)).entries((displayContext, entries) -> {
                 entries.add(ModItems.TEST);
+                entries.add(ModItems.ROCK);
 
                 entries.add(ModBlocks.CALCITE_BRICKS);
                 entries.add(ModBlocks.POLISHED_CALCITE);

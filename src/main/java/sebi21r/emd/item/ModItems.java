@@ -13,6 +13,7 @@ import sebi21r.emd.EMD;
 public class ModItems {
 
     public static final Item TEST = registerItem("test", new Item(new FabricItemSettings()));
+    public static final Item ROCK = registerItem("rock", new Item(new FabricItemSettings()));
 
 
     private static void addItemsToItemGroup(FabricItemGroupEntries entries) {
