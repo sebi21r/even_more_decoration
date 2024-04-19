@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "even_more_decoration:rock"
+    },
+    {
+      "item": "even_more_decoration:rock"
+    },
+    {
+      "item": "even_more_decoration:rock"
+    },
+    {
+      "item": "even_more_decoration:rock"
+    },
+    {
+      "item": "even_more_decoration:rock"
+    },
+    {
+      "item": "even_more_decoration:rock"
+    },
+    {
+      "item": "even_more_decoration:rock"
+    },
+    {
+      "item": "even_more_decoration:rock"
+    },
+    {
+      "item": "even_more_decoration:rock"
+    }
+  ],
+  "result": {
+    "item": "minecraft:cobblestone"
+  }
+}
