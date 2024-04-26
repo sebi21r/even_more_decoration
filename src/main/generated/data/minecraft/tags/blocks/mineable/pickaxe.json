@@ -3,6 +3,21 @@
   "values": [
     "even_more_decoration:calcite_bricks",
     "even_more_decoration:polished_calcite",
-    "even_more_decoration:chiseled_calcite"
+    "even_more_decoration:chiseled_calcite",
+    "even_more_decoration:cracked_calcite_bricks",
+    "even_more_decoration:calcite_tiles",
+    "even_more_decoration:cracked_calcite_tiles",
+    "even_more_decoration:andesite_bricks",
+    "even_more_decoration:andesite_tiles",
+    "even_more_decoration:chiseled_andesite",
+    "even_more_decoration:smooth_andesite",
+    "even_more_decoration:granite_bricks",
+    "even_more_decoration:granite_tiles",
+    "even_more_decoration:chiseled_granite",
+    "even_more_decoration:smooth_granite",
+    "even_more_decoration:diorite_bricks",
+    "even_more_decoration:diorite_tiles",
+    "even_more_decoration:chiseled_diorite",
+    "even_more_decoration:smooth_diorite"
   ]
 }

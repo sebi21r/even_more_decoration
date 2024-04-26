@@ -21,6 +21,21 @@ public class ModItemGroups {
                 entries.add(ModBlocks.CALCITE_BRICKS);
                 entries.add(ModBlocks.POLISHED_CALCITE);
                 entries.add(ModBlocks.CHISELED_CALCITE);
+                entries.add(ModBlocks.CRACKED_CALCITE_BRICKS);
+                entries.add(ModBlocks.CALCITE_TILES);
+                entries.add(ModBlocks.CRACKED_CALCITE_TILES);
+                entries.add(ModBlocks.ANDESITE_BRICKS);
+                entries.add(ModBlocks.ANDESITE_TILES);
+                entries.add(ModBlocks.CHISELED_ANDESITE);
+                entries.add(ModBlocks.SMOOTH_ANDESITE);
+                entries.add(ModBlocks.GRANITE_BRICKS);
+                entries.add(ModBlocks.GRANITE_TILES);
+                entries.add(ModBlocks.CHISELED_GRANITE);
+                entries.add(ModBlocks.SMOOTH_GRANITE);
+                entries.add(ModBlocks.DIORITE_BRICKS);
+                entries.add(ModBlocks.DIORITE_TILES);
+                entries.add(ModBlocks.CHISELED_DIORITE);
+                entries.add(ModBlocks.SMOOTH_DIORITE);
 
             }).build());
 

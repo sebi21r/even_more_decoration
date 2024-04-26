@@ -5,6 +5,20 @@
   "itemgroup.even_more_decoration_group": "Even More Decoration",
   "block.even_more_decoration.calcite_bricks": "Calcite Bricks",
   "block.even_more_decoration.polished_calcite": "Polished Calcite",
-  "block.even_more_decoration.chiseled_calcite": "Chiseled Calcite"
-
+  "block.even_more_decoration.chiseled_calcite": "Chiseled Calcite",
+  "block.even_more_decoration.cracked_calcite_bricks": "Cracked Calcite Bricks",
+  "block.even_more_decoration.calcite_tiles": "Calcite Tiles",
+  "block.even_more_decoration.cracked_calcite_tiles": "Cracked Calcite Tiles",
+  "block.even_more_decoration.andesite_bricks": "Andesite Bricks",
+  "block.even_more_decoration.andesite_tiles": "Andesite Tiles",
+  "block.even_more_decoration.chiseled_andesite": "Chiseled Andesite",
+  "block.even_more_decoration.smooth_andesite": "Smooth Andesite",
+  "block.even_more_decoration.granite_bricks": "Granite Bricks",
+  "block.even_more_decoration.granite_tiles": "Granite Tiles",
+  "block.even_more_decoration.chiseled_granite": "Chiseled Granite",
+  "block.even_more_decoration.smooth_granite": "Smooth Granite",
+  "block.even_more_decoration.diorite_bricks": "Diorite Bricks",
+  "block.even_more_decoration.diorite_tiles": "Diorite Tiles",
+  "block.even_more_decoration.chiseled_diorite": "Chiseled Diorite",
+  "block.even_more_decoration.smooth_diorite": "Smooth Diorite"
 }

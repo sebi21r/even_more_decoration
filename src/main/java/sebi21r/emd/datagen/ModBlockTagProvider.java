@@ -18,6 +18,21 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
         getOrCreateTagBuilder(BlockTags.PICKAXE_MINEABLE)
                 .add(ModBlocks.CALCITE_BRICKS)
                 .add(ModBlocks.POLISHED_CALCITE)
-                .add(ModBlocks.CHISELED_CALCITE);
+                .add(ModBlocks.CHISELED_CALCITE)
+                .add(ModBlocks.CRACKED_CALCITE_BRICKS)
+                .add(ModBlocks.CALCITE_TILES)
+                .add(ModBlocks.CRACKED_CALCITE_TILES)
+                .add(ModBlocks.ANDESITE_BRICKS)
+                .add(ModBlocks.ANDESITE_TILES)
+                .add(ModBlocks.CHISELED_ANDESITE)
+                .add(ModBlocks.SMOOTH_ANDESITE)
+                .add(ModBlocks.GRANITE_BRICKS)
+                .add(ModBlocks.GRANITE_TILES)
+                .add(ModBlocks.CHISELED_GRANITE)
+                .add(ModBlocks.SMOOTH_GRANITE)
+                .add(ModBlocks.DIORITE_BRICKS)
+                .add(ModBlocks.DIORITE_TILES)
+                .add(ModBlocks.CHISELED_DIORITE)
+                .add(ModBlocks.SMOOTH_DIORITE);
     }
 }

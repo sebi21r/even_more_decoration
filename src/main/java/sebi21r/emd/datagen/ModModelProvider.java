@@ -18,6 +18,21 @@ public class ModModelProvider extends FabricModelProvider {
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CALCITE_BRICKS);
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.POLISHED_CALCITE);
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CHISELED_CALCITE);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CRACKED_CALCITE_BRICKS);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CALCITE_TILES);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CRACKED_CALCITE_TILES);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.ANDESITE_BRICKS);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.ANDESITE_TILES);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CHISELED_ANDESITE);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.SMOOTH_ANDESITE);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.GRANITE_BRICKS);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.GRANITE_TILES);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CHISELED_GRANITE);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.SMOOTH_GRANITE);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.DIORITE_BRICKS);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.DIORITE_TILES);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CHISELED_DIORITE);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.SMOOTH_DIORITE);
     }
 
     @Override

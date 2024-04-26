@@ -19,6 +19,36 @@ public class ModBlocks {
             new Block(FabricBlockSettings.copyOf(Blocks.CALCITE)));
     public static final Block CHISELED_CALCITE = registerBlock("chiseled_calcite",
             new Block(FabricBlockSettings.copyOf(Blocks.CALCITE)));
+    public static final Block CRACKED_CALCITE_BRICKS = registerBlock("cracked_calcite_bricks",
+            new Block(FabricBlockSettings.copyOf(Blocks.CALCITE)));
+    public static final Block CALCITE_TILES = registerBlock("calcite_tiles",
+            new Block(FabricBlockSettings.copyOf(Blocks.CALCITE)));
+    public static final Block CRACKED_CALCITE_TILES = registerBlock("cracked_calcite_tiles",
+            new Block(FabricBlockSettings.copyOf(Blocks.CALCITE)));
+    public static final Block ANDESITE_BRICKS = registerBlock("andesite_bricks",
+            new Block(FabricBlockSettings.copyOf(Blocks.ANDESITE)));
+    public static final Block ANDESITE_TILES = registerBlock("andesite_tiles",
+            new Block(FabricBlockSettings.copyOf(Blocks.ANDESITE)));
+    public static final Block CHISELED_ANDESITE = registerBlock("chiseled_andesite",
+            new Block(FabricBlockSettings.copyOf(Blocks.ANDESITE)));
+    public static final Block SMOOTH_ANDESITE = registerBlock("smooth_andesite",
+            new Block(FabricBlockSettings.copyOf(Blocks.ANDESITE)));
+    public static final Block GRANITE_BRICKS = registerBlock("granite_bricks",
+            new Block(FabricBlockSettings.copyOf(Blocks.GRANITE)));
+    public static final Block GRANITE_TILES = registerBlock("granite_tiles",
+            new Block(FabricBlockSettings.copyOf(Blocks.GRANITE)));
+    public static final Block CHISELED_GRANITE = registerBlock("chiseled_granite",
+            new Block(FabricBlockSettings.copyOf(Blocks.GRANITE)));
+    public static final Block SMOOTH_GRANITE = registerBlock("smooth_granite",
+            new Block(FabricBlockSettings.copyOf(Blocks.GRANITE)));
+    public static final Block DIORITE_BRICKS = registerBlock("diorite_bricks",
+            new Block(FabricBlockSettings.copyOf(Blocks.DIORITE)));
+    public static final Block DIORITE_TILES = registerBlock("diorite_tiles",
+            new Block(FabricBlockSettings.copyOf(Blocks.DIORITE)));
+    public static final Block CHISELED_DIORITE = registerBlock("chiseled_diorite",
+            new Block(FabricBlockSettings.copyOf(Blocks.DIORITE)));
+    public static final Block SMOOTH_DIORITE = registerBlock("smooth_diorite",
+            new Block(FabricBlockSettings.copyOf(Blocks.DIORITE)));
 
 
 
