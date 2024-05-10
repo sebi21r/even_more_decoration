@@ -33,6 +33,8 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
                 .add(ModBlocks.DIORITE_BRICKS)
                 .add(ModBlocks.DIORITE_TILES)
                 .add(ModBlocks.CHISELED_DIORITE)
-                .add(ModBlocks.SMOOTH_DIORITE);
+                .add(ModBlocks.SMOOTH_DIORITE)
+                .add(ModBlocks.POLISHED_BLACKSTONE_TILES)
+                .add(ModBlocks.CRACKED_POLISHED_BLACKSTONE_TILES);
     }
 }

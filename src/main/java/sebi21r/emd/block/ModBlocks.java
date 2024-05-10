@@ -49,6 +49,10 @@ public class ModBlocks {
             new Block(FabricBlockSettings.copyOf(Blocks.DIORITE)));
     public static final Block SMOOTH_DIORITE = registerBlock("smooth_diorite",
             new Block(FabricBlockSettings.copyOf(Blocks.DIORITE)));
+    public static final Block POLISHED_BLACKSTONE_TILES = registerBlock("polished_blackstone_tiles",
+            new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_BLACKSTONE)));
+    public static final Block CRACKED_POLISHED_BLACKSTONE_TILES = registerBlock("cracked_polished_blackstone_tiles",
+            new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_BLACKSTONE)));
 
 
 

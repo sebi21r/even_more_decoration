@@ -20,5 +20,7 @@
   "block.even_more_decoration.diorite_bricks": "Diorite Bricks",
   "block.even_more_decoration.diorite_tiles": "Diorite Tiles",
   "block.even_more_decoration.chiseled_diorite": "Chiseled Diorite",
-  "block.even_more_decoration.smooth_diorite": "Smooth Diorite"
+  "block.even_more_decoration.smooth_diorite": "Smooth Diorite",
+  "block.even_more_decoration.polished_blackstone_tiles": "Polished Blackstone Tiles",
+  "block.even_more_decoration.cracked_polished_blackstone_tiles": "Cracked Polished Blackstone Tiles"
 }

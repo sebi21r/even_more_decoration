@@ -31,5 +31,7 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
         addDrop(ModBlocks.DIORITE_TILES);
         addDrop(ModBlocks.CHISELED_DIORITE);
         addDrop(ModBlocks.SMOOTH_DIORITE);
+        addDrop(ModBlocks.POLISHED_BLACKSTONE_TILES);
+        addDrop(ModBlocks.CRACKED_POLISHED_BLACKSTONE_TILES);
     }
 }

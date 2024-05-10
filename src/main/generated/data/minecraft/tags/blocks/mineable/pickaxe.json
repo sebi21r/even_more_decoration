@@ -18,6 +18,8 @@
     "even_more_decoration:diorite_bricks",
     "even_more_decoration:diorite_tiles",
     "even_more_decoration:chiseled_diorite",
-    "even_more_decoration:smooth_diorite"
+    "even_more_decoration:smooth_diorite",
+    "even_more_decoration:polished_blackstone_tiles",
+    "even_more_decoration:cracked_polished_blackstone_tiles"
   ]
 }

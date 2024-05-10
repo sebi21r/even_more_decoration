@@ -36,6 +36,8 @@ public class ModItemGroups {
                 entries.add(ModBlocks.DIORITE_TILES);
                 entries.add(ModBlocks.CHISELED_DIORITE);
                 entries.add(ModBlocks.SMOOTH_DIORITE);
+                entries.add(ModBlocks.POLISHED_BLACKSTONE_TILES);
+                entries.add(ModBlocks.CRACKED_POLISHED_BLACKSTONE_TILES);
 
             }).build());
 

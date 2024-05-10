@@ -1,4 +1,4 @@
-// 1.20.4	2024-04-26T20:33:48.5550607	Even More Decoration/Block Loot Tables
+// 1.20.4	2024-05-10T15:04:30.7712718	Even More Decoration/Block Loot Tables
 dcf16c01557f504d4c585c8e924ea87cf64df5c3 data\even_more_decoration\loot_tables\blocks\diorite_bricks.json
 4d7200cc17802fda35acf4b339808ccf7ccb82d2 data\even_more_decoration\loot_tables\blocks\calcite_tiles.json
 8da8ebbfce79fe4b3d56a82a6f388950f45d6ce9 data\even_more_decoration\loot_tables\blocks\granite_bricks.json
@@ -9,7 +9,9 @@ b013cbfc4a8fb419e53cad3f8225ef062e1ef27a data\even_more_decoration\loot_tables\b
 ba5e6ab181d5e22016845f1f5cdba69ccb361f4b data\even_more_decoration\loot_tables\blocks\andesite_tiles.json
 a349d060b4bfddba15b2cc31b8a0fa2edfcae752 data\even_more_decoration\loot_tables\blocks\cracked_calcite_tiles.json
 824e15762990f37c27b5b6365b9adeb57fe8e4ec data\even_more_decoration\loot_tables\blocks\smooth_diorite.json
+5acf4c9de10e9a4235f68c19e10f13bce789444c data\even_more_decoration\loot_tables\blocks\cracked_polished_blackstone_tiles.json
 17a76da016e49cefbb9d9617c474790fd1acd19e data\even_more_decoration\loot_tables\blocks\chiseled_diorite.json
+357eb01b0593128a3bf423b8c5143135b5aa0ae9 data\even_more_decoration\loot_tables\blocks\polished_blackstone_tiles.json
 6dc5102f41aeda7a9207362763889aacb7bdd263 data\even_more_decoration\loot_tables\blocks\chiseled_calcite.json
 c7bbc8b4f90acdebf77b4a8b3fc9dd9a226788c7 data\even_more_decoration\loot_tables\blocks\calcite_bricks.json
 8ecea82fee7b7734a49f5c12acb158f6bbae26a5 data\even_more_decoration\loot_tables\blocks\granite_tiles.json

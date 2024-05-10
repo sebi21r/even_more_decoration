@@ -33,6 +33,8 @@ public class ModModelProvider extends FabricModelProvider {
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.DIORITE_TILES);
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CHISELED_DIORITE);
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.SMOOTH_DIORITE);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.POLISHED_BLACKSTONE_TILES);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CRACKED_POLISHED_BLACKSTONE_TILES);
     }
 
     @Override
