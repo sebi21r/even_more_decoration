@@ -69,13 +69,13 @@ public class ModBlocks {
             new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_ANDESITE)));
     public static final Block MOSSY_GRANITE_BRICKS = registerBlock("mossy_granite_bricks",
             new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_GRANITE)));
-    public static final Block MOSSY_DIORITE_BRICKS = registerBlock("mossy_diortie_bricks",
+    public static final Block MOSSY_DIORITE_BRICKS = registerBlock("mossy_diorite_bricks",
             new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_DIORITE)));
     public static final Block MOSSY_ANDESITE_TILES = registerBlock("mossy_andesite_tiles",
             new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_ANDESITE)));
     public static final Block MOSSY_GRANITE_TILES = registerBlock("mossy_granite_tiles",
             new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_GRANITE)));
-    public static final Block MOSSY_DIORITE_TILES = registerBlock("mossy_diortie_tiles",
+    public static final Block MOSSY_DIORITE_TILES = registerBlock("mossy_diorite_tiles",
             new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_DIORITE)));
 
 
