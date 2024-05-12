@@ -35,6 +35,18 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
                 .add(ModBlocks.CHISELED_DIORITE)
                 .add(ModBlocks.SMOOTH_DIORITE)
                 .add(ModBlocks.POLISHED_BLACKSTONE_TILES)
-                .add(ModBlocks.CRACKED_POLISHED_BLACKSTONE_TILES);
+                .add(ModBlocks.CRACKED_POLISHED_BLACKSTONE_TILES)
+                .add(ModBlocks.SMOOTH_BLACKSTONE)
+                .add(ModBlocks.SMOOTH_DEEPSLATE)
+                .add(ModBlocks.STONE_TILES)
+                .add(ModBlocks.CRACKED_STONE_TILES)
+                .add(ModBlocks.MOSSY_STONE_TILES)
+                .add(ModBlocks.MOSSY_POLISHED_BLACKSTONE_TILES)
+                .add(ModBlocks.MOSSY_ANDESITE_BRICKS)
+                .add(ModBlocks.MOSSY_GRANITE_BRICKS)
+                .add(ModBlocks.MOSSY_DIORITE_BRICKS)
+                .add(ModBlocks.MOSSY_ANDESITE_TILES)
+                .add(ModBlocks.MOSSY_GRANITE_TILES)
+                .add(ModBlocks.MOSSY_DIORITE_TILES);
     }
 }

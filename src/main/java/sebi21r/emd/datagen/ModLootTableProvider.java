@@ -33,5 +33,17 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
         addDrop(ModBlocks.SMOOTH_DIORITE);
         addDrop(ModBlocks.POLISHED_BLACKSTONE_TILES);
         addDrop(ModBlocks.CRACKED_POLISHED_BLACKSTONE_TILES);
+        addDrop(ModBlocks.SMOOTH_BLACKSTONE);
+        addDrop(ModBlocks.SMOOTH_DEEPSLATE);
+        addDrop(ModBlocks.STONE_TILES);
+        addDrop(ModBlocks.CRACKED_STONE_TILES);
+        addDrop(ModBlocks.MOSSY_STONE_TILES);
+        addDrop(ModBlocks.MOSSY_POLISHED_BLACKSTONE_TILES);
+        addDrop(ModBlocks.MOSSY_ANDESITE_BRICKS);
+        addDrop(ModBlocks.MOSSY_GRANITE_BRICKS);
+        addDrop(ModBlocks.MOSSY_DIORITE_BRICKS);
+        addDrop(ModBlocks.MOSSY_ANDESITE_TILES);
+        addDrop(ModBlocks.MOSSY_GRANITE_TILES);
+        addDrop(ModBlocks.MOSSY_DIORITE_TILES);
     }
 }
