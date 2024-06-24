@@ -13,6 +13,8 @@ import sebi21r.emd.EMD;
 
 public class ModBlocks {
 
+    // Calcite
+
     public static final Block CALCITE_BRICKS = registerBlock("calcite_bricks",
             new Block(FabricBlockSettings.copyOf(Blocks.CALCITE)));
     public static final Block POLISHED_CALCITE = registerBlock("polished_calcite",
@@ -25,6 +27,9 @@ public class ModBlocks {
             new Block(FabricBlockSettings.copyOf(Blocks.CALCITE)));
     public static final Block CRACKED_CALCITE_TILES = registerBlock("cracked_calcite_tiles",
             new Block(FabricBlockSettings.copyOf(Blocks.CALCITE)));
+
+    //Andesite
+
     public static final Block ANDESITE_BRICKS = registerBlock("andesite_bricks",
             new Block(FabricBlockSettings.copyOf(Blocks.ANDESITE)));
     public static final Block ANDESITE_TILES = registerBlock("andesite_tiles",
@@ -33,6 +38,13 @@ public class ModBlocks {
             new Block(FabricBlockSettings.copyOf(Blocks.ANDESITE)));
     public static final Block SMOOTH_ANDESITE = registerBlock("smooth_andesite",
             new Block(FabricBlockSettings.copyOf(Blocks.ANDESITE)));
+    public static final Block MOSSY_ANDESITE_BRICKS = registerBlock("mossy_andesite_bricks",
+            new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_ANDESITE)));
+    public static final Block MOSSY_ANDESITE_TILES = registerBlock("mossy_andesite_tiles",
+            new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_ANDESITE)));
+
+    //Granite
+
     public static final Block GRANITE_BRICKS = registerBlock("granite_bricks",
             new Block(FabricBlockSettings.copyOf(Blocks.GRANITE)));
     public static final Block GRANITE_TILES = registerBlock("granite_tiles",
@@ -41,6 +53,13 @@ public class ModBlocks {
             new Block(FabricBlockSettings.copyOf(Blocks.GRANITE)));
     public static final Block SMOOTH_GRANITE = registerBlock("smooth_granite",
             new Block(FabricBlockSettings.copyOf(Blocks.GRANITE)));
+    public static final Block MOSSY_GRANITE_BRICKS = registerBlock("mossy_granite_bricks",
+            new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_GRANITE)));
+    public static final Block MOSSY_GRANITE_TILES = registerBlock("mossy_granite_tiles",
+            new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_GRANITE)));
+
+    //Diorite
+
     public static final Block DIORITE_BRICKS = registerBlock("diorite_bricks",
             new Block(FabricBlockSettings.copyOf(Blocks.DIORITE)));
     public static final Block DIORITE_TILES = registerBlock("diorite_tiles",
@@ -49,34 +68,35 @@ public class ModBlocks {
             new Block(FabricBlockSettings.copyOf(Blocks.DIORITE)));
     public static final Block SMOOTH_DIORITE = registerBlock("smooth_diorite",
             new Block(FabricBlockSettings.copyOf(Blocks.DIORITE)));
+    public static final Block MOSSY_DIORITE_BRICKS = registerBlock("mossy_diorite_bricks",
+            new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_DIORITE)));
+    public static final Block MOSSY_DIORITE_TILES = registerBlock("mossy_diorite_tiles",
+            new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_DIORITE)));
+
+    //Blackstone
     public static final Block POLISHED_BLACKSTONE_TILES = registerBlock("polished_blackstone_tiles",
             new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_BLACKSTONE)));
     public static final Block CRACKED_POLISHED_BLACKSTONE_TILES = registerBlock("cracked_polished_blackstone_tiles",
             new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_BLACKSTONE)));
     public static final Block SMOOTH_BLACKSTONE = registerBlock("smooth_blackstone",
             new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_BLACKSTONE)));
+    public static final Block MOSSY_POLISHED_BLACKSTONE_TILES = registerBlock("mossy_polished_blackstone_tiles",
+            new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_BLACKSTONE_BRICKS)));
+
+    //Deepslate
+
     public static final Block SMOOTH_DEEPSLATE = registerBlock("smooth_deepslate",
             new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_DEEPSLATE)));
+
+    //Stone
     public static final Block STONE_TILES = registerBlock("stone_tiles",
             new Block(FabricBlockSettings.copyOf(Blocks.STONE_BRICKS)));
     public static final Block CRACKED_STONE_TILES = registerBlock("cracked_stone_tiles",
             new Block(FabricBlockSettings.copyOf(Blocks.STONE_BRICKS)));
     public static final Block MOSSY_STONE_TILES = registerBlock("mossy_stone_tiles",
             new Block(FabricBlockSettings.copyOf(Blocks.STONE_BRICKS)));
-    public static final Block MOSSY_POLISHED_BLACKSTONE_TILES = registerBlock("mossy_polished_blackstone_tiles",
-            new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_BLACKSTONE_BRICKS)));
-    public static final Block MOSSY_ANDESITE_BRICKS = registerBlock("mossy_andesite_bricks",
-            new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_ANDESITE)));
-    public static final Block MOSSY_GRANITE_BRICKS = registerBlock("mossy_granite_bricks",
-            new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_GRANITE)));
-    public static final Block MOSSY_DIORITE_BRICKS = registerBlock("mossy_diorite_bricks",
-            new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_DIORITE)));
-    public static final Block MOSSY_ANDESITE_TILES = registerBlock("mossy_andesite_tiles",
-            new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_ANDESITE)));
-    public static final Block MOSSY_GRANITE_TILES = registerBlock("mossy_granite_tiles",
-            new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_GRANITE)));
-    public static final Block MOSSY_DIORITE_TILES = registerBlock("mossy_diorite_tiles",
-            new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_DIORITE)));
+
+
 
 
 

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "even_more_decoration:block/mossy_diortie_bricks"
+    "all": "even_more_decoration:block/mossy_diorite_bricks"
   }
 }

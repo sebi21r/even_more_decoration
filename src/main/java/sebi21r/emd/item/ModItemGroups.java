@@ -18,38 +18,53 @@ public class ModItemGroups {
                 entries.add(ModItems.TEST);
                 entries.add(ModItems.ROCK);
 
+                //Calcite
                 entries.add(ModBlocks.CALCITE_BRICKS);
                 entries.add(ModBlocks.POLISHED_CALCITE);
                 entries.add(ModBlocks.CHISELED_CALCITE);
                 entries.add(ModBlocks.CRACKED_CALCITE_BRICKS);
                 entries.add(ModBlocks.CALCITE_TILES);
                 entries.add(ModBlocks.CRACKED_CALCITE_TILES);
+
+                //Andesite
                 entries.add(ModBlocks.ANDESITE_BRICKS);
                 entries.add(ModBlocks.ANDESITE_TILES);
                 entries.add(ModBlocks.CHISELED_ANDESITE);
                 entries.add(ModBlocks.SMOOTH_ANDESITE);
+                entries.add(ModBlocks.MOSSY_ANDESITE_BRICKS);
+                entries.add(ModBlocks.MOSSY_ANDESITE_TILES);
+
+                //Granite
                 entries.add(ModBlocks.GRANITE_BRICKS);
                 entries.add(ModBlocks.GRANITE_TILES);
                 entries.add(ModBlocks.CHISELED_GRANITE);
                 entries.add(ModBlocks.SMOOTH_GRANITE);
+                entries.add(ModBlocks.MOSSY_GRANITE_BRICKS);
+                entries.add(ModBlocks.MOSSY_GRANITE_TILES);
+
+                //Diorite
                 entries.add(ModBlocks.DIORITE_BRICKS);
                 entries.add(ModBlocks.DIORITE_TILES);
                 entries.add(ModBlocks.CHISELED_DIORITE);
                 entries.add(ModBlocks.SMOOTH_DIORITE);
+                entries.add(ModBlocks.MOSSY_DIORITE_BRICKS);
+                entries.add(ModBlocks.MOSSY_DIORITE_TILES);
+
+                //Blackstone
                 entries.add(ModBlocks.POLISHED_BLACKSTONE_TILES);
                 entries.add(ModBlocks.CRACKED_POLISHED_BLACKSTONE_TILES);
                 entries.add(ModBlocks.SMOOTH_BLACKSTONE);
+                entries.add(ModBlocks.MOSSY_POLISHED_BLACKSTONE_TILES);
+
+                //Deepslate
                 entries.add(ModBlocks.SMOOTH_DEEPSLATE);
+
+                //Stone
                 entries.add(ModBlocks.STONE_TILES);
                 entries.add(ModBlocks.CRACKED_STONE_TILES);
                 entries.add(ModBlocks.MOSSY_STONE_TILES);
-                entries.add(ModBlocks.MOSSY_POLISHED_BLACKSTONE_TILES);
-                entries.add(ModBlocks.MOSSY_ANDESITE_BRICKS);
-                entries.add(ModBlocks.MOSSY_GRANITE_BRICKS);
-                entries.add(ModBlocks.MOSSY_DIORITE_BRICKS);
-                entries.add(ModBlocks.MOSSY_ANDESITE_TILES);
-                entries.add(ModBlocks.MOSSY_GRANITE_TILES);
-                entries.add(ModBlocks.MOSSY_DIORITE_TILES);
+
+
 
             }).build());
 
