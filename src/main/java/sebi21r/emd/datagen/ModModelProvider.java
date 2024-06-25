@@ -56,6 +56,9 @@ public class ModModelProvider extends FabricModelProvider {
 
         //Deepslate
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.SMOOTH_DEEPSLATE);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.MOSSY_COBBLED_DEEPSLATE);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.MOSSY_DEEPSLATE_TILES);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.MOSSY_DEEPSLATE_BRICKS);
 
         //Stone
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.STONE_TILES);

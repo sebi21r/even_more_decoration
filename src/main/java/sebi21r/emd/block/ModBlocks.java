@@ -13,7 +13,7 @@ import sebi21r.emd.EMD;
 
 public class ModBlocks {
 
-    // Calcite
+    //Calcite
 
     public static final Block CALCITE_BRICKS = registerBlock("calcite_bricks",
             new Block(FabricBlockSettings.copyOf(Blocks.CALCITE)));
@@ -74,6 +74,7 @@ public class ModBlocks {
             new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_DIORITE)));
 
     //Blackstone
+
     public static final Block POLISHED_BLACKSTONE_TILES = registerBlock("polished_blackstone_tiles",
             new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_BLACKSTONE)));
     public static final Block CRACKED_POLISHED_BLACKSTONE_TILES = registerBlock("cracked_polished_blackstone_tiles",
@@ -87,14 +88,23 @@ public class ModBlocks {
 
     public static final Block SMOOTH_DEEPSLATE = registerBlock("smooth_deepslate",
             new Block(FabricBlockSettings.copyOf(Blocks.POLISHED_DEEPSLATE)));
+    public static final Block MOSSY_COBBLED_DEEPSLATE = registerBlock("mossy_cobbled_deepslate",
+            new Block(FabricBlockSettings.copyOf(Blocks.COBBLED_DEEPSLATE)));
+    public static final Block MOSSY_DEEPSLATE_TILES = registerBlock("mossy_deepslate_tiles",
+            new Block(FabricBlockSettings.copyOf(Blocks.COBBLED_DEEPSLATE)));
+    public static final Block MOSSY_DEEPSLATE_BRICKS = registerBlock("mossy_deepslate_bricks",
+            new Block(FabricBlockSettings.copyOf(Blocks.COBBLED_DEEPSLATE)));
 
     //Stone
+
     public static final Block STONE_TILES = registerBlock("stone_tiles",
             new Block(FabricBlockSettings.copyOf(Blocks.STONE_BRICKS)));
     public static final Block CRACKED_STONE_TILES = registerBlock("cracked_stone_tiles",
             new Block(FabricBlockSettings.copyOf(Blocks.STONE_BRICKS)));
     public static final Block MOSSY_STONE_TILES = registerBlock("mossy_stone_tiles",
             new Block(FabricBlockSettings.copyOf(Blocks.STONE_BRICKS)));
+
+    //TO-DO Prismarine, Basalt, maybe Dripstone and complete Deepslate
 
 
 

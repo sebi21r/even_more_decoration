@@ -58,6 +58,9 @@ public class ModItemGroups {
 
                 //Deepslate
                 entries.add(ModBlocks.SMOOTH_DEEPSLATE);
+                entries.add(ModBlocks.MOSSY_COBBLED_DEEPSLATE);
+                entries.add(ModBlocks.MOSSY_DEEPSLATE_TILES);
+                entries.add(ModBlocks.MOSSY_DEEPSLATE_BRICKS);
 
                 //Stone
                 entries.add(ModBlocks.STONE_TILES);

@@ -57,6 +57,9 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
 
                 //Deepslate
                 .add(ModBlocks.SMOOTH_DEEPSLATE)
+                .add(ModBlocks.MOSSY_COBBLED_DEEPSLATE)
+                .add(ModBlocks.MOSSY_DEEPSLATE_TILES)
+                .add(ModBlocks.MOSSY_DEEPSLATE_BRICKS)
 
                 //Stone
                 .add(ModBlocks.STONE_TILES)

@@ -54,6 +54,9 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
 
         //Deepslate
         addDrop(ModBlocks.SMOOTH_DEEPSLATE);
+        addDrop(ModBlocks.MOSSY_COBBLED_DEEPSLATE);
+        addDrop(ModBlocks.MOSSY_DEEPSLATE_TILES);
+        addDrop(ModBlocks.MOSSY_DEEPSLATE_BRICKS);
 
         //Stone
         addDrop(ModBlocks.STONE_TILES);
