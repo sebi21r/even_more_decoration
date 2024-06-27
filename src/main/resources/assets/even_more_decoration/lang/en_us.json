@@ -43,6 +43,20 @@
 
   "block.even_more_decoration.stone_tiles": "Stone Tiles",
   "block.even_more_decoration.cracked_stone_tiles": "Cracked Stone Tiles",
-  "block.even_more_decoration.mossy_stone_tiles": "Mossy Stone Tiles"
+  "block.even_more_decoration.mossy_stone_tiles": "Mossy Stone Tiles",
+
+  "block.even_more_decoration.prismarine_tiles": "Prismarine Tiles",
+  "block.even_more_decoration.chiseled_prismarine": "Chiseled Prismarine",
+  "block.even_more_decoration.smooth_prismarine": "Smooth Prismarine",
+  "block.even_more_decoration.cracked_prismarine_tiles": "Cracked Prismarine Tiles",
+  "block.even_more_decoration.cracked_prismarine_bricks": "Cracked Prismarine Bricks",
+
+  "block.even_more_decoration.quartz_tiles": "Quartz Tiles",
+  "block.even_more_decoration.cracked_quartz_bricks": "Cracked Quartz Bricks",
+  "block.even_more_decoration.cracked_quartz_tiles": "Cracked Quartz Tiles",
+  "block.even_more_decoration.cracked_quartz_pillar": "Cracked Quartz Pillar",
+
+  "block.even_more_decoration.mossy_bricks": "Mossy Bricks",
+  "block.even_more_decoration.cracked_bricks": "Cracked Bricks"
 
 }

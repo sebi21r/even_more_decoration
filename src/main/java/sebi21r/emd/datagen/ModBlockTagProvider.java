@@ -66,6 +66,23 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
                 .add(ModBlocks.CRACKED_STONE_TILES)
                 .add(ModBlocks.MOSSY_STONE_TILES)
 
+                //Prismarine
+                .add(ModBlocks.PRISMARINE_TILES)
+                .add(ModBlocks.CHISELED_PRISMARINE)
+                .add(ModBlocks.SMOOTH_PRISMARINE)
+                .add(ModBlocks.CRACKED_PRISMARINE_TILES)
+                .add(ModBlocks.CRACKED_PRISMARINE_BRICKS)
+
+                //Quartz
+                .add(ModBlocks.QUARTZ_TILES)
+                .add(ModBlocks.CRACKED_QUARTZ_BRICKS)
+                .add(ModBlocks.CRACKED_QUARTZ_TILES)
+                .add(ModBlocks.CRACKED_QUARTZ_PILLAR)
+
+                //Bricks
+                .add(ModBlocks.MOSSY_BRICKS)
+                .add(ModBlocks.CRACKED_BRICKS)
+
 
             //End
 

@@ -65,6 +65,23 @@ public class ModModelProvider extends FabricModelProvider {
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CRACKED_STONE_TILES);
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.MOSSY_STONE_TILES);
 
+        //Prismarine
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.PRISMARINE_TILES);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CHISELED_PRISMARINE);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.SMOOTH_PRISMARINE);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CRACKED_PRISMARINE_TILES);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CRACKED_PRISMARINE_BRICKS);
+
+        //Quartz
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.QUARTZ_TILES);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CRACKED_QUARTZ_BRICKS);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CRACKED_QUARTZ_TILES);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CRACKED_QUARTZ_PILLAR);
+
+        //Bricks
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.MOSSY_BRICKS);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CRACKED_BRICKS);
+
 
     }
 

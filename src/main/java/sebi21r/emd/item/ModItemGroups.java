@@ -67,6 +67,24 @@ public class ModItemGroups {
                 entries.add(ModBlocks.CRACKED_STONE_TILES);
                 entries.add(ModBlocks.MOSSY_STONE_TILES);
 
+                //Prismarine
+                entries.add(ModBlocks.PRISMARINE_TILES);
+                entries.add(ModBlocks.CHISELED_PRISMARINE);
+                entries.add(ModBlocks.SMOOTH_PRISMARINE);
+                entries.add(ModBlocks.CRACKED_PRISMARINE_TILES);
+                entries.add(ModBlocks.CRACKED_PRISMARINE_BRICKS);
+
+                //Quartz
+                entries.add(ModBlocks.QUARTZ_TILES);
+                entries.add(ModBlocks.CRACKED_QUARTZ_BRICKS);
+                entries.add(ModBlocks.CRACKED_QUARTZ_TILES);
+                entries.add(ModBlocks.CRACKED_QUARTZ_PILLAR);
+
+                //Bricks
+                entries.add(ModBlocks.MOSSY_BRICKS);
+                entries.add(ModBlocks.CRACKED_BRICKS);
+
+
 
 
             }).build());

@@ -104,7 +104,38 @@ public class ModBlocks {
     public static final Block MOSSY_STONE_TILES = registerBlock("mossy_stone_tiles",
             new Block(FabricBlockSettings.copyOf(Blocks.STONE_BRICKS)));
 
-    //TO-DO Prismarine, Basalt, maybe Dripstone and complete Deepslate
+    //Prismarine
+
+    public static final Block PRISMARINE_TILES = registerBlock("prismarine_tiles",
+            new Block(FabricBlockSettings.copyOf(Blocks.PRISMARINE_BRICKS)));
+    public static final Block CHISELED_PRISMARINE = registerBlock("chiseled_prismarine",
+            new Block(FabricBlockSettings.copyOf(Blocks.PRISMARINE_BRICKS)));
+    public static final Block SMOOTH_PRISMARINE = registerBlock("smooth_prismarine",
+            new Block(FabricBlockSettings.copyOf(Blocks.PRISMARINE_BRICKS)));
+    public static final Block CRACKED_PRISMARINE_TILES = registerBlock("cracked_prismarine_tiles",
+            new Block(FabricBlockSettings.copyOf(Blocks.PRISMARINE_BRICKS)));
+    public static final Block CRACKED_PRISMARINE_BRICKS = registerBlock("cracked_prismarine_bricks",
+            new Block(FabricBlockSettings.copyOf(Blocks.PRISMARINE_BRICKS)));
+
+    //Quartz
+
+    public static final Block QUARTZ_TILES = registerBlock("quartz_tiles",
+            new Block(FabricBlockSettings.copyOf(Blocks.QUARTZ_BRICKS)));
+    public static final Block CRACKED_QUARTZ_BRICKS = registerBlock("cracked_quartz_bricks",
+            new Block(FabricBlockSettings.copyOf(Blocks.QUARTZ_BRICKS)));
+    public static final Block CRACKED_QUARTZ_TILES = registerBlock("cracked_quartz_tiles",
+            new Block(FabricBlockSettings.copyOf(Blocks.QUARTZ_BRICKS)));
+    public static final Block CRACKED_QUARTZ_PILLAR = registerBlock("cracked_quartz_pillar",
+            new Block(FabricBlockSettings.copyOf(Blocks.QUARTZ_PILLAR)));
+
+    //Bricks
+
+    public static final Block MOSSY_BRICKS = registerBlock("mossy_bricks",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block CRACKED_BRICKS = registerBlock("cracked_bricks",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    //TO-DO
 
 
 

@@ -35,6 +35,17 @@
     "even_more_decoration:mossy_deepslate_bricks",
     "even_more_decoration:stone_tiles",
     "even_more_decoration:cracked_stone_tiles",
-    "even_more_decoration:mossy_stone_tiles"
+    "even_more_decoration:mossy_stone_tiles",
+    "even_more_decoration:prismarine_tiles",
+    "even_more_decoration:chiseled_prismarine",
+    "even_more_decoration:smooth_prismarine",
+    "even_more_decoration:cracked_prismarine_tiles",
+    "even_more_decoration:cracked_prismarine_bricks",
+    "even_more_decoration:quartz_tiles",
+    "even_more_decoration:cracked_quartz_bricks",
+    "even_more_decoration:cracked_quartz_tiles",
+    "even_more_decoration:cracked_quartz_pillar",
+    "even_more_decoration:mossy_bricks",
+    "even_more_decoration:cracked_bricks"
   ]
 }

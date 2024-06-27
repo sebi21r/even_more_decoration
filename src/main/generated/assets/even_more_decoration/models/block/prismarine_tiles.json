@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "even_more_decoration:block/prismarine_tiles"
+  }
+}
