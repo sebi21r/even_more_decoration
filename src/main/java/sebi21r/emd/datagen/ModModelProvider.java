@@ -82,6 +82,36 @@ public class ModModelProvider extends FabricModelProvider {
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.MOSSY_BRICKS);
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CRACKED_BRICKS);
 
+        //Oak
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.OAK_MOSAIC);
+
+        //Spruce
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.SPRUCE_MOSAIC);
+
+        //Birch
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BIRCH_MOSAIC);
+
+        //Dark Oak
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.DARK_OAK_MOSAIC);
+
+        //Acacia
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.ACACIA_MOSAIC);
+
+        //Jungle
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.JUNGLE_MOSAIC);
+
+        //Cherry
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CHERRY_MOSAIC);
+
+        //Mangrove
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.MANGROVE_MOSAIC);
+
+        //Crimson
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.CRIMSON_MOSAIC);
+
+        //Warped
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.WARPED_MOSAIC);
+
 
     }
 

@@ -13,6 +13,8 @@ import sebi21r.emd.EMD;
 
 public class ModBlocks {
 
+    /* Stone */
+
     //Calcite
 
     public static final Block CALCITE_BRICKS = registerBlock("calcite_bricks",
@@ -134,6 +136,58 @@ public class ModBlocks {
             new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
     public static final Block CRACKED_BRICKS = registerBlock("cracked_bricks",
             new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    /* Wood */
+
+    //Oak
+
+    public static final Block OAK_MOSAIC = registerBlock("oak_mosaic",
+            new Block(FabricBlockSettings.copyOf(Blocks.OAK_PLANKS)));
+
+    //Spruce
+
+    public static final Block SPRUCE_MOSAIC = registerBlock("spruce_mosaic",
+            new Block(FabricBlockSettings.copyOf(Blocks.SPRUCE_PLANKS)));
+
+    //Birch
+
+    public static final Block BIRCH_MOSAIC = registerBlock("birch_mosaic",
+            new Block(FabricBlockSettings.copyOf(Blocks.BIRCH_PLANKS)));
+
+    //Dark Oak
+
+    public static final Block DARK_OAK_MOSAIC = registerBlock("dark_oak_mosaic",
+            new Block(FabricBlockSettings.copyOf(Blocks.DARK_OAK_PLANKS)));
+
+    //Acacia
+
+    public static final Block ACACIA_MOSAIC = registerBlock("acacia_mosaic",
+            new Block(FabricBlockSettings.copyOf(Blocks.ACACIA_PLANKS)));
+
+    //Jungle
+
+    public static final Block JUNGLE_MOSAIC = registerBlock("jungle_mosaic",
+            new Block(FabricBlockSettings.copyOf(Blocks.JUNGLE_PLANKS)));
+
+    //Cherry
+
+    public static final Block CHERRY_MOSAIC = registerBlock("cherry_mosaic",
+            new Block(FabricBlockSettings.copyOf(Blocks.CHERRY_PLANKS)));
+
+    //Mangrove
+
+    public static final Block MANGROVE_MOSAIC = registerBlock("mangrove_mosaic",
+            new Block(FabricBlockSettings.copyOf(Blocks.MANGROVE_PLANKS)));
+
+    //Crimson
+
+    public static final Block CRIMSON_MOSAIC = registerBlock("crimson_mosaic",
+            new Block(FabricBlockSettings.copyOf(Blocks.CRIMSON_PLANKS)));
+
+    //Warped
+
+    public static final Block WARPED_MOSAIC = registerBlock("warped_mosaic",
+            new Block(FabricBlockSettings.copyOf(Blocks.WARPED_PLANKS)));
 
     //TO-DO
 

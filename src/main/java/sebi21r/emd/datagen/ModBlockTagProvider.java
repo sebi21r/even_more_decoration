@@ -83,6 +83,36 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
                 .add(ModBlocks.MOSSY_BRICKS)
                 .add(ModBlocks.CRACKED_BRICKS)
 
+                 //Oak
+                .add(ModBlocks.OAK_MOSAIC)
+
+                //Spruce
+                .add(ModBlocks.SPRUCE_MOSAIC)
+
+                //Birch
+                .add(ModBlocks.BIRCH_MOSAIC)
+
+                //Dark Oak
+                .add(ModBlocks.DARK_OAK_MOSAIC)
+
+                //Acacia
+                .add(ModBlocks.ACACIA_MOSAIC)
+
+                //Jungle
+                .add(ModBlocks.JUNGLE_MOSAIC)
+
+                //Cherry
+                .add(ModBlocks.CHERRY_MOSAIC)
+
+                //Mangrove
+                .add(ModBlocks.MANGROVE_MOSAIC)
+
+                //Crimson
+                .add(ModBlocks.CRIMSON_MOSAIC)
+
+                //Warped
+                .add(ModBlocks.WARPED_MOSAIC)
+
 
             //End
 

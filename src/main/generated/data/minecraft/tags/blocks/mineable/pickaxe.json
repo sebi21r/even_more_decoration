@@ -46,6 +46,16 @@
     "even_more_decoration:cracked_quartz_tiles",
     "even_more_decoration:cracked_quartz_pillar",
     "even_more_decoration:mossy_bricks",
-    "even_more_decoration:cracked_bricks"
+    "even_more_decoration:cracked_bricks",
+    "even_more_decoration:oak_mosaic",
+    "even_more_decoration:spruce_mosaic",
+    "even_more_decoration:birch_mosaic",
+    "even_more_decoration:dark_oak_mosaic",
+    "even_more_decoration:acacia_mosaic",
+    "even_more_decoration:jungle_mosaic",
+    "even_more_decoration:cherry_mosaic",
+    "even_more_decoration:mangrove_mosaic",
+    "even_more_decoration:crimson_mosaic",
+    "even_more_decoration:warped_mosaic"
   ]
 }

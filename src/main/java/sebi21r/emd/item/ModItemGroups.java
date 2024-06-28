@@ -84,6 +84,37 @@ public class ModItemGroups {
                 entries.add(ModBlocks.MOSSY_BRICKS);
                 entries.add(ModBlocks.CRACKED_BRICKS);
 
+                //Oak
+                entries.add(ModBlocks.OAK_MOSAIC);
+
+                //Spruce
+                entries.add(ModBlocks.SPRUCE_MOSAIC);
+
+                //Birch
+                entries.add(ModBlocks.BIRCH_MOSAIC);
+
+                //Dark Oak
+                entries.add(ModBlocks.DARK_OAK_MOSAIC);
+
+                //Acacia
+                entries.add(ModBlocks.ACACIA_MOSAIC);
+
+                //Jungle
+                entries.add(ModBlocks.JUNGLE_MOSAIC);
+
+                //Cherry
+                entries.add(ModBlocks.CHERRY_MOSAIC);
+
+                //Mangrove
+                entries.add(ModBlocks.MANGROVE_MOSAIC);
+
+                //Crimson
+                entries.add(ModBlocks.CRIMSON_MOSAIC);
+
+                //Warped
+                entries.add(ModBlocks.WARPED_MOSAIC);
+
+
 
 
 

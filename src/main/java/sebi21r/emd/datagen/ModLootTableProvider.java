@@ -79,5 +79,35 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
         //Bricks
         addDrop(ModBlocks.MOSSY_BRICKS);
         addDrop(ModBlocks.CRACKED_BRICKS);
+
+        //Oak
+        addDrop(ModBlocks.OAK_MOSAIC);
+
+        //Spruce
+        addDrop(ModBlocks.SPRUCE_MOSAIC);
+
+        //Birch
+        addDrop(ModBlocks.BIRCH_MOSAIC);
+
+        //Dark Oak
+        addDrop(ModBlocks.DARK_OAK_MOSAIC);
+
+        //Acacia
+        addDrop(ModBlocks.ACACIA_MOSAIC);
+
+        //Jungle
+        addDrop(ModBlocks.JUNGLE_MOSAIC);
+
+        //Cherry
+        addDrop(ModBlocks.CHERRY_MOSAIC);
+
+        //Mangrove
+        addDrop(ModBlocks.MANGROVE_MOSAIC);
+
+        //Crimson
+        addDrop(ModBlocks.CRIMSON_MOSAIC);
+
+        //Warped
+        addDrop(ModBlocks.WARPED_MOSAIC);
     }
 }
